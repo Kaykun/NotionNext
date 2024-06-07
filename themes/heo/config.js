@@ -16,7 +16,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '我杂乱无章的记事本',
-  HEO_HERO_TITLE_2: '分享学习记录和生活',
+  HEO_HERO_TITLE_2: '分享学习笔记和生活',
   HEO_HERO_TITLE_3: 'HUKAI.FUN',
   HEO_HERO_TITLE_4: '欢迎光临',
   HEO_HERO_TITLE_5: '个人微信公众号：JavaGym',
