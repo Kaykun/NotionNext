@@ -68,6 +68,7 @@ const LayoutBase = props => {
         </>
       ) : null}
       {fullWidth ? null : <PostHeader {...props} isDarkMode={isDarkMode} />}
+
     </header>
   )
 
